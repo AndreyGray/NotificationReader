@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#737373</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="button_stop_color">#FFC400</color>
+
+    <color name="colorDivider">#EEEEEE</color>
+
+    <color name="colorText">#202020</color>
+    <color name="colorTextMuted">#737373</color>
+    <color name="colorTextWhite">#ffffff</color>
+    <color name="colorTextDanger">#F44336</color>
+</resources>
